@@ -1,3 +1,7 @@
-~ proj 1 grade (17.05/20)
+# AED 21/22
 
-~ proj 2 grade (17.7/20)
+## Course Grades
+
+| | Project 1 | Project 2 |
+| --- | --- | --- |
+| Grade | **17.05** | **17.70**| 
